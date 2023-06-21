@@ -2,7 +2,7 @@
 A Windows 95 Key Generator written in Python.
 
 # Download
-Currently download is unavailable due to PyInstaller having problems with his executables being flagged as malicious and a major bug in the code. The download of the source code will be available soon along side the 1.0.0 release!
+Currently .exe download is unavailable due to PyInstaller having problems with his executables being flagged as malicious. The download of the executable will be available soon. If you want to check out Keygen95 now, you can download the source code and run it.
 
 # Windows 95 RTM Key Format
 **BBB-MMMMMMM**
