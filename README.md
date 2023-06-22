@@ -7,7 +7,7 @@ Currently .exe download is unavailable due to PyInstaller having problems with h
 # Windows 95 RTM Key Format
 **BBB-MMMMMMM**
 
-BBB - Just a Blacklist: 222, 333, 444, 555, 666, 777, 888 and 999 are banned <br>
+BBB - Just a Blacklist: 333, 444, 555, 666, 777, 888 and 999 are banned <br>
 MMMMMMM - Simillar to the OEM's mod7 function. The only diffrence is that you don't need to put 0 on the beginning.
 
 Notes:
